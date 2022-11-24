@@ -79,10 +79,10 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = ""
+DOWNLOAD_TEXT_URL = "https://youtube.com/channel/UCsk7poGcxjx8dNwiyB7BZjg"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "Suscribe"
-CAPTION_BUTTON_URL = "https://youtube.com/anumitultrabots"
+CAPTION_BUTTON_URL = "hhttps://youtube.com/channel/UCsk7poGcxjx8dNwiyB7BZjg"
 
    # Auto Delete For Bot Sending Files #
